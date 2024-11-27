@@ -8,3 +8,6 @@ This project explores the Black-Scholes Model (BSM) for option pricing, a corner
 5.   Plotting option prices as a function of greeks to prresent real-time data and as a function of probable range of volatility to predict option price movement.
 
 By combining financial theory with Python-based numerical techniques, this project provides both a conceptual understanding and a hands-on implementation of the BSM and Greeks. The code is modular, with functions designed to compute individual components of the BSM formula and Greeks, making it easy to understand and adapt for various use cases.
+
+if
+''' pip install yfinance'''
