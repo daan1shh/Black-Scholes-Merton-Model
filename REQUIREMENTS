@@ -1,0 +1,7 @@
+This project operates on Python 3.10
+Use Jupyter notebook for best experience
+following external libraries are required for the project to be operational. Kindly install via console:
+
+pip install yfinance
+pip install numpy
+pip install scipy
